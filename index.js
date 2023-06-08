@@ -1,0 +1,1 @@
+let swiper = new swiper('.swiper');
